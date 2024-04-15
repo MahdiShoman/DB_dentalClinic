@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="886c2593-b8ca-490c-aa5b-02f370dd1aaa" name="Changes" comment="firstAddition">
+      <change afterPath="$PROJECT_DIR$/src/Diagnosis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sign_in_page/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EquipmentOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EquipmentOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Secretary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Treatment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Treatment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sign_in_page/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a13cdbe6-08e4-4195-9fd8-f2b39db9fcf8" />
+        <option name="url" value="https://github.com/MahdiShoman/dentalClinic.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XUJIp1W9yFaFknyiKiOGiGOyYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Mahdi/Algorithem/projects/proj3/Dijkstra_Map_",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DB.ConnectDB" />
+      <module name="dentalClinic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dentalClinic" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\Download\openjfx-20_windows-x64_bin-sdk\javafx-sdk-20\lib&quot; --add-modules=javafx.base,javafx.controls,javafx.graphics,javafx.media " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConnectDB" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConnectDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="886c2593-b8ca-490c-aa5b-02f370dd1aaa" name="Changes" comment="" />
+      <created>1698677653859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698677653859</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1703529112125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703529112125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create a signup/login system (without encryption )">
+      <created>1703678125751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703678125751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="firstAddition">
+      <created>1706354808465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706354808465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="create a signup/login system (without encryption )" />
+    <MESSAGE value="firstAddition" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstAddition" />
+  </component>
+</project>
